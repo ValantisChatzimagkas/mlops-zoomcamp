@@ -194,3 +194,10 @@ cython_debug/
 .cursorindexingignore
 
 Anaconda*
+
+mlruns/
+models/
+mlflow.db
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
